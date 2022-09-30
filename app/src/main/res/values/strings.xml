@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dice Roller (withViewModel)</string>
+    <string name="die_result">die result</string>
+    <string name="roll">Roll</string>
+    <string name="tap_in_the_die_to_roll">tap in the die to roll</string>
+</resources>

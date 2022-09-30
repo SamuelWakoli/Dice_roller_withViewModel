@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dice_Roller_(withViewModel).iml" filepath="$PROJECT_DIR$/.idea/modules/Dice_Roller_(withViewModel).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Dice_Roller_(withViewModel).app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Dice_Roller_(withViewModel).app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Dice_Roller_(withViewModel).app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Dice_Roller_(withViewModel).app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Dice_Roller_(withViewModel).app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Dice_Roller_(withViewModel).app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Dice_Roller_(withViewModel).app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Dice_Roller_(withViewModel).app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
